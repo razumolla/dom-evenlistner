@@ -1,0 +1,1 @@
+const inputValue = document.getElementById('input-value').ariaValueMax;

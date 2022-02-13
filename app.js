@@ -46,3 +46,5 @@ function minus(event) {
     }
     control('count')
 }
+
+//  01.06.12  hour
